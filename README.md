@@ -25,4 +25,3 @@ Viu algo que está errado ou pode ser melhorado no repositório? Abra uma issue 
 |Dia | Tema|
 |-----|--------|
 |[Dia 1](https://github.com/enzoIto/100-days-of-kafka/tree/main/day-1) | Criando um cluster        |
-|Egg  |12      |
